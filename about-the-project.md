@@ -11,7 +11,7 @@ The project consists in developing a client / server application based on mobile
 
 Here some data about **ischemic heart disease**
 
-[!Top 10 global causes of deaths, 2000](img/causesDeaths2010.jpg)
+![Top 10 global causes of deaths, 2000](img/causesDeaths2010.jpg)
 
 ### my history
 
