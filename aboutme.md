@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About The Project
+subtitle:
 ---
+# Some introduction about the project
 
-My name is Inigo Montoya. I have the following qualities:
+The project consists in developing a client / server application based on mobile devices and open software [OpenMRS](https://openmrs.org/) that allows the automated collection of biomedical data in areas with little or no coverage of mobile communications. This system is aimed to local agents with low or null medical and technological knowledge that will improve the treatment of hypertension in remote areas.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Why?
 
-What else do you need?
+Here some data about **ischemic heart disease**
+
+[!Top 10 global causes of deaths, 2000](img/causesDeaths2010.jpg)
 
 ### my history
 
