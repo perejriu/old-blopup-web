@@ -17,7 +17,7 @@ A continuación se muestra un diagrama del algoritmo:
 
 # HTA Intervals Definition
 
->
+
 There are three essential intervals given the BP values:
 * <span style="color:green">Normal AT</span>.
 * <span style="color:yellow">Stage I HTA</span>.
