@@ -19,9 +19,13 @@ A continuación se muestra un diagrama del algoritmo:
 
 
 There are three essential intervals given the BP values:
+
 * <span style="color:green">Normal AT</span>.
+
 * <span style="color:yellow">Stage I HTA</span>.
+
 * <span style="color:red">Stage II HTA</span>.
+
 >
 Every interval is related with a face:
 
