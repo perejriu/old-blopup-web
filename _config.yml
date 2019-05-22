@@ -23,7 +23,7 @@ title: BPUP Project
 
 # List of links in the navigation bar
 navbar-links:
-  Aboutt: "about-the-project"
+  About: "about-the-project"
   Resources:
     - Project Repository: "https://github.com/sergio-gimenez/BPUP-AndroidClient/"
     - OpenMRS: "https://openmrs.org/"
