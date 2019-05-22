@@ -20,10 +20,11 @@ A continuación se muestra un diagrama del algoritmo:
 ### Normal AT
 
 $$
-Normal\,\,\,TA = \left\{
-        \begin{array}{ll}
-            systolic \leq 129 \\
-            diastolic\leq 79
-        \end{array}
-    \right.
+Normal\,\,\,TA = systolic \leq 129\, \cap \,diastolic\leq 79
 $$
+
+In the **Normal AT** stage, the algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
+
+**Control** in the next 6 Month - 1 year
+
+### Stage I HTA
