@@ -18,7 +18,7 @@ A continuación se muestra un diagrama del algoritmo:
 # HTA Intervals Definition
 
 ### Normal AT
-
+$$ $$
 $$
 \[ \begin{cases}
       0 & x\leq 0 \\
