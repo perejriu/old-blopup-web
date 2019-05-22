@@ -32,7 +32,8 @@ $$
 Normal\,\,\,TA = systolic \leq 129\, \cap \,diastolic\leq 79
 $$
 
-In the **Normal AT** stage, the algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
+In the **Normal AT**:
+* The algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
 
 <details close>
 <summary><b>Here there is an example of the dialogue:</b></summary>
@@ -40,7 +41,7 @@ In the **Normal AT** stage, the algorithm returns a dialogue with a set of perso
 <img src="/img/algoritme_tractament_Rev3.png" alt="Treatment dialogue">
 </details>
 
-The **Control** should be in the next 6 Month - 1 year.
+* The **Control** should be in the next 6 Month - 1 year.
 
 ### Stage I HTA
 >
@@ -48,4 +49,7 @@ $$
 Normal\,\,\,TA = systolic \in [130, 139]\, \cup  \,diastolic\in [80, 89]\
 $$
 
-In the **Stage I HTA** , the algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
+In **Stage I HTA**:
+  * The algorithm returns the **personalized recommendations** like before.
+  * Notifies the doctor, and afterwards he decide to give or not to give **pharmacotherapy**.
+  * The **Control** should be in the next 6 Month - 1 year.
