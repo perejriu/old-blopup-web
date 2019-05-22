@@ -18,12 +18,4 @@ A continuación se muestra un diagrama del algoritmo:
 # HTA Intervals Definition
 
 ### Normal AT
-$$ $$
-$$
-\[ \begin{cases}
-      0 & x\leq 0 \\
-      \frac{100-x}{100} & 0\leq x\leq 100 \\
-      0 & 100\leq x
-   \end{cases}
-\]
-$$
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
