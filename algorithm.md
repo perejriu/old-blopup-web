@@ -2,7 +2,7 @@
 layout: page
 title: Treatment Algorithm
 subtitle: Diagnosis and control of hypertension in an automated way
-#header-includes: \usepackage{amsmath}
+header-includes: \usepackage{amsmath}
 ---
 
 El objetivo de este algoritmo consiste en detectar en que estado de hipertensión se encuentra el paciente tras las correspondientes medidas de la presión sanguínea.
