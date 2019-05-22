@@ -4,7 +4,7 @@ title: Documentation
 subtitle: Manuals, docs, references...
 ---
 
-## Known Issues
+# Known Issues
 
 [Here](https://docs.google.com/spreadsheets/d/1RbZAtD-T_CTOZewnHfwPDXLW8bAy1uB9Ph_4KPlO2Wc/edit?usp=sharing) there is a table with all the issues we have found and how are we solving them.
 
