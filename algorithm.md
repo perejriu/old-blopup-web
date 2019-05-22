@@ -10,7 +10,7 @@ El objetivo de este algoritmo consiste en detectar en que estado de hipertensió
 A continuación se muestra un diagrama del algoritmo:
 
 <details open>
-<summary>Algorithm Diagram</summary>
+<summary><b>Algorithm Diagram</b></summary>
 <br>
 <img src="/img/algoritme_tractament_Rev3.png" alt="Algorithm Diagram">
 </details>
