@@ -97,7 +97,7 @@ $$
 * **Non-pharmacological treatment**. The algorithm returns personalized recommendations based on risk factors of the patient.
 
 * **Pharmacotherapy**. Show the _Medication Suggestion Screen_  
-** _The Medication Suggestion Screen still needs to be designed and implemented_
+  * _The Medication Suggestion Screen still needs to be designed and implemented_
 
 * **Notify** the doctor in order to know the situation of the patient.
 
