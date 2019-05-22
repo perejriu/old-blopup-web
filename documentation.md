@@ -3,7 +3,6 @@ layout: page
 title: Documentation
 subtitle: Manuals, docs, references...
 ---
-<center>
 
 | Stuff          | Version                                          |
 |----------------|--------------------------------------------------|
@@ -11,7 +10,6 @@ subtitle: Manuals, docs, references...
 | Android Client | Suported in **Android KitKat 4.4.4** and so on   |
 | Server OS      | 16.04.1-Ubuntu                                   |
 
-</center>
 
 # Known Issues
 
