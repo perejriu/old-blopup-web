@@ -35,11 +35,11 @@ $$
 In the **Normal AT**:
 * The algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
 
-&nbsp;&nbsp;&nbsp;<details close>
-&nbsp;&nbsp;&nbsp;<summary><b>Here there is an example of the &nbsp;&nbsp;&nbsp;dialogue:</b></summary>
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<img src="/img/algoritme_tractament_Rev3.png" &nbsp;&nbsp;&nbsp;alt="Treatment  dialogue">
-&nbsp;&nbsp;&nbsp;</details>
+<details close>
+<summary><b>Here there is an example of the dialogue:</b></summary>
+<br>
+<img src="/img/algoritme_tractament_Rev3.png" alt="Treatment dialogue">
+</details>
 
 
 
