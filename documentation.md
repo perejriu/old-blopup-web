@@ -10,11 +10,10 @@ subtitle: Manuals, docs, references...
 
 # Server
 
-* **Launching OpenMRS automatically as a service** – [Step  by step guide](https://wiki.openmrs.org/display/docs/Launching+OpenMRS+automatically+as+a+service).  With this, we are able to wake up the server at the same time that the computer starts.
-
+* **Launching OpenMRS automatically as a service** – [Step  by step guide](https://wiki.openmrs.org/display/docs/Launching+OpenMRS+automatically+as+a+service).  
+With this, we are able to wake up the server at the same time that the computer starts.
 
 * **Making backup and restoration of database on OpenMRS Standalone** – [Step by step guide](https://wiki.openmrs.org/display/docs/Making+backup+and+restoration+of+database+on+OpenMRS+Standalone)
-
 
 # Useful Documentation
 
@@ -22,5 +21,7 @@ subtitle: Manuals, docs, references...
 
 # Thesis
 
-* **Sistemes autònoms de baix cost de suport a projectes educatius i de salut.** _By Albert Sànchez Fuster_.  This TFG is intended to demonstrate the feasibility of doing an implementation of a medical
-management software, in this case with an Open MRS distribution, through a 'Single-Board Computer' as a Raspberry Pi 3. In addition, an autonomous power system based on photovoltaic plates and batteries will be also dimensioned in order to provide energy to the Raspberry and facilitate its displacement. [Follow this link to check the document](https://drive.google.com/open?id=1b_ZEKMHCVC6q4kkD5gAIJcRQioz4sE0X)
+* **Sistemes autònoms de baix cost de suport a projectes educatius i de salut.** _By Albert Sànchez Fuster_.  
+This TFG is intended to demonstrate the feasibility of doing an implementation of a medical
+management software, in this case with an Open MRS distribution, through a 'Single-Board Computer' as a Raspberry Pi 3. In addition, an autonomous power system based on photovoltaic plates and batteries will be also dimensioned in order to provide energy to the Raspberry and facilitate its displacement.  
+[Follow this link to check the document](https://drive.google.com/open?id=1b_ZEKMHCVC6q4kkD5gAIJcRQioz4sE0X)
