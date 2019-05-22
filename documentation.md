@@ -22,16 +22,18 @@ subtitle: Manuals, docs, references...
 * **Launching OpenMRS automatically as a service** – [Step  by step guide](https://wiki.openmrs.org/display/docs/Launching+OpenMRS+automatically+as+a+service).  
 With this, we are able to wake up the server at the same time that the computer starts.
 
-* **Making backup and restoration of database on OpenMRS Standalone** – [Step by step guide](https://wiki.openmrs.org/display/docs/Making+backup+and+restoration+of+database+on+OpenMRS+Standalone)
+* **Making backup and restoration of database on OpenMRS Standalone** – [Step by step guide](https://wiki.openmrs.org/display/docs/Making+backup+and+restoration+of+database+on+OpenMRS+Standalone)  
+In this guide is explained how to make **periodical backups** of the server database and how to **migrate** the database and the configuration of on installation of OpenMRS to another one.
 
+---
 
 # Useful Documentation
 
 * **Thomson Tensiometer**. [Manual](https://drive.google.com/open?id=1aULrjyxg7zmFnRKmwuDnOWg3dCPtRMvS). Instructions of use and set up of the tensiometer we use for this project.
 
----
 
-## Diagrams
+
+### Diagrams
 
 <details close>
 <summary>Primmary Care Diagram</summary>
