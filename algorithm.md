@@ -17,13 +17,30 @@ A continuación se muestra un diagrama del algoritmo:
 
 # HTA Intervals Definition
 
-### Normal AT
+>
+There are three essential intervals given the BP values:
+* <span style="color:green">Normal AT</span>.
+* <span style="color:yellow">Stage I HTA</span>.
+* <span style="color:red">Stage II HTA</span>.
+>
+Every interval is related with a face:
+![Treatment Faces](img/ThreeAlgorithmFaces.png)
 
+
+### Normal AT
+>
 $$
 Normal\,\,\,TA = systolic \leq 129\, \cap \,diastolic\leq 79
 $$
 
 In the **Normal AT** stage, the algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
+
+<details open>
+<summary><b>Here there is an example of the dialogue:</b></summary>
+<br>
+<img src="/img/algoritme_tractament_Rev3.png" alt="Treatment dialogue">
+</details>
+
 
 **Control** in the next 6 Month - 1 year
 
@@ -34,5 +51,3 @@ Normal\,\,\,TA = systolic \in [130, 139]\, \cup  \,diastolic\in [80, 89]\
 $$
 
 In the **Normal AT** stage, the algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
-
-**Control** in the next 6 Month - 1 year
