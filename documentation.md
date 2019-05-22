@@ -33,13 +33,10 @@ With this, we are able to wake up the server at the same time that the computer 
 ## Diagrams
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>Primmary Care Diagram</summary>
 <br>
-Well, you asked for it!
+![Primmary Care Diagram](img/atencio-primaria.png)
 </details>
-
-* ![Primmary care](https://drive.google.com/open?id=1OxOSjVMRbqdXruqMVJCezRXgRPnl5lD7)
-
 
 ---
 
@@ -53,7 +50,6 @@ Implementation of a medical record system based in OpenMRS for the Gambo Hospita
 
 * **Sistemes autònoms de baix cost de suport a projectes educatius i de salut.**  
 _By Albert Sànchez Fuster_.  
-
 This TFG is intended to demonstrate the feasibility of doing an implementation of a medical
 management software, in this case with an Open MRS distribution, through a 'Single-Board Computer' as a Raspberry Pi 3. In addition, an autonomous power system based on photovoltaic plates and batteries will be also dimensioned in order to provide energy to the Raspberry and facilitate its displacement.  
 [Follow this link to read the full thesis](https://drive.google.com/open?id=1b_ZEKMHCVC6q4kkD5gAIJcRQioz4sE0X)
