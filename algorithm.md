@@ -34,7 +34,7 @@ $$
 
 In the **Normal AT** stage, the algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
 
-<details open>
+<details close>
 <summary><b>Here there is an example of the dialogue:</b></summary>
 <br>
 <img src="/img/algoritme_tractament_Rev3.png" alt="Treatment dialogue">
