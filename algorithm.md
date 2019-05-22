@@ -28,3 +28,11 @@ In the **Normal AT** stage, the algorithm returns a dialogue with a set of perso
 **Control** in the next 6 Month - 1 year
 
 ### Stage I HTA
+>
+$$
+Normal\,\,\,TA = systolic \in [130, 139]\, \cup  \,diastolic\in [80, 89]\
+$$
+
+In the **Normal AT** stage, the algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
+
+**Control** in the next 6 Month - 1 year
