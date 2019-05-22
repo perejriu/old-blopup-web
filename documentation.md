@@ -30,12 +30,14 @@ With this, we are able to wake up the server at the same time that the computer 
 
 * **Thomson Tensiometer**. [Manual](https://drive.google.com/open?id=1aULrjyxg7zmFnRKmwuDnOWg3dCPtRMvS). Instructions of use and set up of the tensiometer we use for this project.
 
+---
+
 ## Diagrams
 
 <details open>
 <summary>Primmary Care Diagram</summary>
 <br>
-![Primmary Care Diagram](img/atencio-primaria.png)
+<img src="/img/atencio-primaria.png" alt="Primmary Care Diagram">
 </details>
 
 ---
