@@ -5,9 +5,9 @@ subtitle: Diagnosis and control of hypertension in an automated way
 header-includes: \usepackage{amsmath}
 ---
 
-El objetivo de este algoritmo consiste en detectar en que estado de hipertensión se encuentra el paciente tras las correspondientes medidas de la presión sanguínea.
+The goal of this algorithm is to detect in which state of hypertension the patient belongs after the corresponding measurements of blood pressure.
 
-A continuación se muestra un diagrama del algoritmo:
+Here, there is a flux-diagram of the algorithm:
 
 <details open>
 <summary><b>Algorithm Diagram</b></summary>
