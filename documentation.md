@@ -3,7 +3,7 @@ layout: page
 title: Documentation
 subtitle: Manuals, docs, references...
 ---
-<p style="text-align: center;">
+ <!–– <p style="text-align: center;">
 
 | Stuff          | Version                                          |
 |----------------|--------------------------------------------------|
@@ -11,7 +11,7 @@ subtitle: Manuals, docs, references...
 | Android Client | Suported in **Android KitKat 4.4.4** and so on   |
 | Server OS      | 16.04.1-Ubuntu                                   |
 
-</p>
+</p> ––>
 
 # Known Issues
 
