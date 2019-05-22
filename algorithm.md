@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Treatment algorithm
+title: Treatment Algorithm
 subtitle: Diagnosis and control of hypertension in an automated way
 #header-includes: \usepackage{amsmath}
 ---
