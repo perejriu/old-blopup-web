@@ -38,7 +38,7 @@ $$
 
 In the **Normal AT**:
 
-* The **Control** should be in the next 6 Month - 1 year.
+* The **Control** should be in the next **6 Month - 1 year**.
 
 * The algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
 
