@@ -59,7 +59,7 @@ In **Stage I HTA**:
 
   * Notifies the doctor, and afterwards he decide to give or not to give **pharmacotherapy**.  
 
-  * The **Control** should be in the next 3 months - 6 months.  
+  * The **Control** should be in the next **3 months - 6 months**.  
 
 ## Stage II hostname
 
@@ -79,9 +79,9 @@ $$
 #### Asymptomatic
   * The algorithm returns the **personalized recommendations** like before.  
 
-  * The **Control** should be in the next 15 days - 1 month.  
+  * The **Control** should be in the next **15 days - 1 month**.  
 
-### Symptomatic
+#### Symptomatic
 
 > Symptomatic means that the patient feels **headaches** and / or **dizziness**
 
@@ -89,7 +89,7 @@ $$
 
 * The algorithm returns the **personalized recommendations** like before.
 
-* The **Control** should be in the next 15 days - 1 month.  
+* The **Control** should be in the next **15 days - 1 month**.  
 
 
 ### Stage II B
@@ -105,7 +105,7 @@ $$
 
 * **Notify** the doctor in order to know the situation of the patient.
 
-* The **Control** should be in the next 15 days.  
+* The **Control** should be in the next **15 days**.  
 
 ### Stage II C
 >
