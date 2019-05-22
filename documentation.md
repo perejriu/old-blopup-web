@@ -10,7 +10,7 @@ subtitle: Manuals, docs, references...
 
 ---
 
-# Android BPUP Client Documentation
+# Android BPUP Client
 
 * **Android BPUP Client Manual**.  
 [In this manual](https://drive.google.com/open?id=1kS5_ZDFhlJuM9JBNr77AnYUAeDujhYd7GBUKpKNpmpQ) is explained how works each screen of the app. Check it to learn how to use the app.
@@ -24,7 +24,6 @@ With this, we are able to wake up the server at the same time that the computer 
 
 * **Making backup and restoration of database on OpenMRS Standalone** – [Step by step guide](https://wiki.openmrs.org/display/docs/Making+backup+and+restoration+of+database+on+OpenMRS+Standalone)
 
----
 
 # Useful Documentation
 
@@ -34,7 +33,7 @@ With this, we are able to wake up the server at the same time that the computer 
 
 ## Diagrams
 
-<details open>
+<details close>
 <summary>Primmary Care Diagram</summary>
 <br>
 <img src="/img/atencio-primaria.png" alt="Primmary Care Diagram">
