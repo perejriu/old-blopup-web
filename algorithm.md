@@ -18,4 +18,16 @@ A continuación se muestra un diagrama del algoritmo:
 # HTA Intervals Definition
 
 ### Normal AT
+
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
+a
+
+$$
+f(x) = \left\{
+        \begin{array}{ll}
+            -x & \quad x \leq 0 \\
+            x & \quad x > 0
+        \end{array}
+    \right.
+$$
