@@ -4,6 +4,14 @@ title: Documentation
 subtitle: Manuals, docs, references...
 ---
 
+# Versions stuff
+
+|                | Version                                          |
+|----------------|--------------------------------------------------|
+| OpenMRS Server | Reference Application 2.9.0 - Standalone Edition |
+| Android Client | Suported in **Android KitKat 4.4.4** and so on   |
+| Server OS      | 16.04.1-Ubuntu                                   |
+
 # Known Issues
 
 [Here](https://docs.google.com/spreadsheets/d/1RbZAtD-T_CTOZewnHfwPDXLW8bAy1uB9Ph_4KPlO2Wc/edit?usp=sharing) there is a table with all the issues we have found and how are we solving them.
