@@ -31,8 +31,6 @@ In this guide is explained how to make **periodical backups** of the server data
 
 * **Thomson Tensiometer**. [Manual](https://drive.google.com/open?id=1aULrjyxg7zmFnRKmwuDnOWg3dCPtRMvS). Instructions of use and set up of the tensiometer we use for this project.
 
-
-
 ### Diagrams
 
 <details close>
