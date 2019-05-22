@@ -19,15 +19,11 @@ A continuación se muestra un diagrama del algoritmo:
 
 ### Normal AT
 
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-
-a
-
 $$
-f(x) = \left\{
+Normal\,\,\,TA = \left\{
         \begin{array}{ll}
-            -x & \quad x \leq 0 \\
-            x & \quad x > 0
+            systolic \leq 129 \\
+            diastolic\leq 79
         \end{array}
     \right.
 $$
