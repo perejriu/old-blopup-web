@@ -10,8 +10,7 @@ subtitle: Manuals, docs, references...
 
 # Server
 
-* **Launching OpenMRS automatically as a service** – [Step  by step guide](https://wiki.openmrs.org/display/docs/Launching+OpenMRS+automatically+as+a+service).
-    With this, we are able to wake up the server at the same time that the computer starts.
+* **Launching OpenMRS automatically as a service** – [Step  by step guide](https://wiki.openmrs.org/display/docs/Launching+OpenMRS+automatically+as+a+service).  With this, we are able to wake up the server at the same time that the computer starts.
 
 
 * **Making backup and restoration of database on OpenMRS Standalone** – [Step by step guide](https://wiki.openmrs.org/display/docs/Making+backup+and+restoration+of+database+on+OpenMRS+Standalone)
