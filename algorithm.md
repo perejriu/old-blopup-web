@@ -42,6 +42,9 @@ In the **Normal AT**:
 
 * The algorithm returns a dialogue with a set of personalized recommendations for the patient based on cardiovascular risk factors.
 
+
+<p style='text-indent: 1em'>esto es una prueba de style='text-indent: 1em'</p>
+
 <details close>
 <summary><b>Here there is an example of the dialogue:</b></summary>
 <br>
