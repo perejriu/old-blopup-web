@@ -4,7 +4,7 @@ title: Documentation
 subtitle: Manuals, docs, references...
 ---
 
-| Stuff          | Version                                          |
+| Platform       | Version                                          |
 |----------------|--------------------------------------------------|
 | OpenMRS Server | Reference Application 2.9.0 - Standalone Edition |
 | Android Client | Suported in **Android KitKat 4.4.4** and so on   |

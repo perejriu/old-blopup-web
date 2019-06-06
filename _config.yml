@@ -17,7 +17,7 @@ baseurl: ""
 title: BPUP Project
 
 # Short description of your site
-#description: Kill the Sillent Killer
+description: Kill the Silent Killer
 
 # --- Navigation bar options --- #
 
@@ -28,7 +28,6 @@ navbar-links:
   Resources:
     - Project Repository: "https://github.com/sergio-gimenez/BPUP-AndroidClient/"
     - OpenMRS: "https://openmrs.org/"
-    #- GitHub Pages: "https://pages.github.com/"
   Documentation: "documentation"
   The Algorithm: "algorithm"
 
@@ -74,7 +73,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "sergiogimenezanton@gmail.com"
   # facebook: daattali
   github: sergio-gimenez/BPUP-AndroidClient
   # twitter: daattali
