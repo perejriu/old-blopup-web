@@ -11,7 +11,7 @@ subtitle: Manuals, docs, references...
 | Server OS      | 16.04.1-Ubuntu                                   |
 
 
-# Known Issues
+# Known Issues  
 
 [Here](https://docs.google.com/spreadsheets/d/1RbZAtD-T_CTOZewnHfwPDXLW8bAy1uB9Ph_4KPlO2Wc/edit?usp=sharing) there is a table with all the issues we have found and how are we solving them.
 
@@ -51,7 +51,7 @@ In this guide is explained how to make **periodical backups** of the server data
 
 ## Papers
 
-####2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines
+#### 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines
 
 Written by: _Paul K. Whelton , Robert M. Carey , Wilbert S. Aronow , Donald E. CaseyJr , Karen J. Collins , Cheryl Dennison Himmelfarb , Sondra M. DePalma , Samuel Gidding , Kenneth A. Jamerson , Daniel W. Jones , Eric J. MacLaughlin , Paul Muntner , Bruce Ovbiagele , Sidney C. SmithJr , Crystal C. Spencer , Randall S. Stafford , Sandra J. Taler , Randal J. Thomas , Kim A. WilliamsSr , Jeff D. Williamson , and Jackson T. WrightJr_
 
