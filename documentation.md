@@ -47,8 +47,17 @@ In this guide is explained how to make **periodical backups** of the server data
 </details>
 
 ---
+# References
 
-# Thesis
+## Papers
+
+####2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines
+
+Written by: _Paul K. Whelton , Robert M. Carey , Wilbert S. Aronow , Donald E. CaseyJr , Karen J. Collins , Cheryl Dennison Himmelfarb , Sondra M. DePalma , Samuel Gidding , Kenneth A. Jamerson , Daniel W. Jones , Eric J. MacLaughlin , Paul Muntner , Bruce Ovbiagele , Sidney C. SmithJr , Crystal C. Spencer , Randall S. Stafford , Sandra J. Taler , Randal J. Thomas , Kim A. WilliamsSr , Jeff D. Williamson , and Jackson T. WrightJr_
+
+**Download it** [here](https://www.ahajournals.org/doi/pdf/10.1161/HYP.0000000000000065) or [here](/downloadable/HYP.0000000000000065.pdf).
+
+## Thesis
 
 * **Implantación de OpenMRS para el cuidado de la Hipertensión en Hospital de Gambo, Etiopía**  
 _By Héctor Luis Rodríguez_  
