@@ -55,7 +55,16 @@ In this guide is explained how to make **periodical backups** of the server data
 
 Written by: _Paul K. Whelton , Robert M. Carey , Wilbert S. Aronow , Donald E. CaseyJr , Karen J. Collins , Cheryl Dennison Himmelfarb , Sondra M. DePalma , Samuel Gidding , Kenneth A. Jamerson , Daniel W. Jones , Eric J. MacLaughlin , Paul Muntner , Bruce Ovbiagele , Sidney C. SmithJr , Crystal C. Spencer , Randall S. Stafford , Sandra J. Taler , Randal J. Thomas , Kim A. WilliamsSr , Jeff D. Williamson , and Jackson T. WrightJr_
 
-**Download it** [here](https://www.ahajournals.org/doi/pdf/10.1161/HYP.0000000000000065) or [here](/downloadable/HYP.0000000000000065.pdf).
+**Read it** [here](https://www.ahajournals.org/doi/pdf/10.1161/HYP.0000000000000065) or [here](/downloadable/HYP.0000000000000065.pdf).
+
+#### Annals of Internal Medicine: Hypertension
+_Byrd JB, Brook RD. Hypertension. Ann Intern Med. 2019;170:ITC65–ITC80. doi: 10.7326/AITC201905070_
+
+**Read it** [here](https://annals.org/aim/article-abstract/2732793/hypertension).
+
+
+
+
 
 ## Thesis
 
