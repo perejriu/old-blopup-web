@@ -19,8 +19,8 @@ subtitle: Manuals, docs, references...
       * [Diagrams](#diagrams)
 * [References](#references)
    * [Papers](#papers)
-   
-         * [2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines](#2017-accahaaapaabcacpmagsaphaashaspcnmapcna-guideline-for-the-prevention-detection-evaluation-and-management-of-high-blood-pressure-in-adults-a-report-of-the-american-college-of-cardiologyamerican-heart-association-task-force-on-clinical-practice-guidelines)
+
+         * [Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults](#2017-accahaaapaabcacpmagsaphaashaspcnmapcna-guideline-for-the-prevention-detection-evaluation-and-management-of-high-blood-pressure-in-adults-a-report-of-the-american-college-of-cardiologyamerican-heart-association-task-force-on-clinical-practice-guidelines)
 
          * [Annals of Internal Medicine: Hypertension](#annals-of-internal-medicine-hypertension)
 
