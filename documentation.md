@@ -10,6 +10,25 @@ subtitle: Manuals, docs, references...
 | Android Client | Suported in **Android KitKat 4.4.4** and so on   |
 | Server OS      | 16.04.1-Ubuntu                                   |
 
+# Index
+* [Forms](#forms)
+* [Known Issues](#known-issues)
+* [Android BPUP Client](#android-bpup-client)
+* [Server](#server)
+* [Useful Documentation](#useful-documentation)
+      * [Diagrams](#diagrams)
+* [References](#references)
+   * [Papers](#papers)
+   
+         * [2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines](#2017-accahaaapaabcacpmagsaphaashaspcnmapcna-guideline-for-the-prevention-detection-evaluation-and-management-of-high-blood-pressure-in-adults-a-report-of-the-american-college-of-cardiologyamerican-heart-association-task-force-on-clinical-practice-guidelines)
+
+         * [Annals of Internal Medicine: Hypertension](#annals-of-internal-medicine-hypertension)
+
+   * [Thesis](#thesis)
+
+
+# Forms
+[Here](https://drive.google.com/open?id=1uL7pqbmKpEnP0hshnlJCVDXIRYqTxl3zuEmxCp5NCGE) there are the forms used in the app.
 
 # Known Issues  
 

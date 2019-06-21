@@ -46,7 +46,7 @@ In the **Normal AT**:
 <details close>
 <summary><b>Here there is an example of the dialogue:</b></summary>
 <br>
-<img src="/img/algoritme_tractament_Rev3.png" alt="Treatment dialogue">
+<img src="/img/algoritme_tractament_Rev4.png" alt="Treatment dialogue">
 </details>
 
 ## Stage I HTA
