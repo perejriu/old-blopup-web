@@ -16,14 +16,11 @@ subtitle: Manuals, docs, references...
 * [Android BPUP Client](#android-bpup-client)
 * [Server](#server)
 * [Useful Documentation](#useful-documentation)
-      * [Diagrams](#diagrams)
+    * [Diagrams](#diagrams)
 * [References](#references)
    * [Papers](#papers)
-
-         * [Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults](#2017-accahaaapaabcacpmagsaphaashaspcnmapcna-guideline-for-the-prevention-detection-evaluation-and-management-of-high-blood-pressure-in-adults-a-report-of-the-american-college-of-cardiologyamerican-heart-association-task-force-on-clinical-practice-guidelines)
-
-         * [Annals of Internal Medicine: Hypertension](#annals-of-internal-medicine-hypertension)
-
+    * [Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults](#2017-accahaaapaabcacpmagsaphaashaspcnmapcna-guideline-for-the-prevention-detection-evaluation-and-management-of-high-blood-pressure-in-adults-a-report-of-the-american-college-of-cardiologyamerican-heart-association-task-force-on-clinical-practice-guidelines)
+    * [Annals of Internal Medicine: Hypertension](#annals-of-internal-medicine-hypertension)
    * [Thesis](#thesis)
 
 
