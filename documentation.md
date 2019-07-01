@@ -4,13 +4,8 @@ title: Documentation
 subtitle: Manuals, docs, references...
 ---
 
-| Platform       | Version                                          |
-|----------------|--------------------------------------------------|
-| OpenMRS Server | Reference Application 2.9.0 - Standalone Edition |
-| Android Client | Suported in **Android KitKat 4.4.4** and so on   |
-| Server OS      | 16.04.1-Ubuntu                                   |
-
 # Index
+* [System Specifications](#system-specifications)
 * [Forms](#forms)
 * [Known Issues](#known-issues)
 * [Android BPUP Client](#android-bpup-client)
@@ -23,6 +18,15 @@ subtitle: Manuals, docs, references...
     * [Annals of Internal Medicine: Hypertension](#annals-of-internal-medicine-hypertension)
    * [Thesis](#thesis)
 
+# System Specifications
+
+
+| Platform       | Version                                          |
+|----------------|--------------------------------------------------|
+| OpenMRS Server | Reference Application 2.9.0 - Standalone Edition |
+| Android Client | Suported in **Android KitKat 4.4.4** and so on   |
+| Server OS      | 16.04.1-Ubuntu                                   |
+| Tensiometer    | Thomson TLS808                                   |
 
 # Forms
 [Here](https://drive.google.com/open?id=1uL7pqbmKpEnP0hshnlJCVDXIRYqTxl3zuEmxCp5NCGE) there are the forms used in the app.
