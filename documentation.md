@@ -17,6 +17,9 @@ subtitle: Manuals, docs, references...
     * [Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults](#2017-accahaaapaabcacpmagsaphaashaspcnmapcna-guideline-for-the-prevention-detection-evaluation-and-management-of-high-blood-pressure-in-adults-a-report-of-the-american-college-of-cardiologyamerican-heart-association-task-force-on-clinical-practice-guidelines)
     * [Annals of Internal Medicine: Hypertension](#annals-of-internal-medicine-hypertension)
    * [Thesis](#thesis)
+      * [Implantación de OpenMRS para el cuidado de la Hipertensión en Hospital de Gambo, Etiopía](#implantación-de-openmrs-para-el-cuidado-de-la-hipertensión-en-hospital-de-gambo-etiopía)
+      * [Sistemes autònoms de baix cost de suport a projectes educatius i de salut.](#sistemes-autònoms-de-baix-cost-de-suport-a-projectes-educatius-i-de-salut)
+
 
 # System Specifications
 
@@ -88,14 +91,16 @@ _Byrd JB, Brook RD. Hypertension. Ann Intern Med. 2019;170:ITC65–ITC80. doi: 1
 
 ## Thesis
 
-* **Implantación de OpenMRS para el cuidado de la Hipertensión en Hospital de Gambo, Etiopía**  
+#### Implantación de OpenMRS para el cuidado de la Hipertensión en Hospital de Gambo, Etiopía
 _By Héctor Luis Rodríguez_  
 Implementation of a medical record system based in OpenMRS for the Gambo Hospital, Ethiopia with the goal of improve the control an diagnosis oh hypertension.  
+
 [Follow the link to read the full thesis](https://drive.google.com/open?id=1vP44mb9X72WgNB7C8yirA55hONjVGuPd)
 
 
-* **Sistemes autònoms de baix cost de suport a projectes educatius i de salut.**  
-_By Albert Sànchez Fuster_.  
-This TFG is intended to demonstrate the feasibility of doing an implementation of a medical
+#### Sistemes autònoms de baix cost de suport a projectes educatius i de salut.
+_By Albert Sànchez Fuster_  
+  This TFG is intended to demonstrate the feasibility of doing an implementation of a medical
 management software, in this case with an Open MRS distribution, through a 'Single-Board Computer' as a Raspberry Pi 3. In addition, an autonomous power system based on photovoltaic plates and batteries will be also dimensioned in order to provide energy to the Raspberry and facilitate its displacement.  
+
 [Follow this link to read the full thesis](https://drive.google.com/open?id=1b_ZEKMHCVC6q4kkD5gAIJcRQioz4sE0X)
