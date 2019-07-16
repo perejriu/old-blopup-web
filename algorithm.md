@@ -12,7 +12,7 @@ Here, there is a flux-diagram of the algorithm:
 <details open>
 <summary><b>Algorithm Diagram</b></summary>
 <br>
-<img src="/img/algoritme_tractament_Rev3.png" alt="Algorithm Diagram">
+<img src="/img/algoritme_tractament_Rev4.png" alt="Algorithm Diagram">
 </details>
 
 # HTA Intervals Definition
