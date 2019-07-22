@@ -27,8 +27,9 @@ There are three essential intervals given the BP values:
 
 * <span style="color:red">Stage II HT</span>.
 
->
-Every interval is related with a face: ![Three Algorithm Faces]("img/ThreeAlgorithmFaces.png")
+>Every interval is related with a face 
+
+![Three Algorithm Faces]("img/ThreeAlgorithmFaces.png")
 
 
 ## Normal AT
