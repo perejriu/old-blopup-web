@@ -19,6 +19,8 @@ subtitle: Manuals, docs, references...
    * [Thesis](#thesis)
       * [Implantación de OpenMRS para el cuidado de la Hipertensión en Hospital de Gambo, Etiopía](#implantación-de-openmrs-para-el-cuidado-de-la-hipertensión-en-hospital-de-gambo-etiopía)
       * [Sistemes autònoms de baix cost de suport a projectes educatius i de salut.](#sistemes-autònoms-de-baix-cost-de-suport-a-projectes-educatius-i-de-salut)
+   * [Other Projects](#other-projects)
+      * [Journey Mapping for a Health App](#journey-mapping-for-a-health-app)
 
 
 # System Specifications
@@ -104,3 +106,9 @@ _By Albert Sànchez Fuster_
 management software, in this case with an Open MRS distribution, through a 'Single-Board Computer' as a Raspberry Pi 3. In addition, an autonomous power system based on photovoltaic plates and batteries will be also dimensioned in order to provide energy to the Raspberry and facilitate its displacement.  
 
 [Follow this link to read the full thesis](https://drive.google.com/open?id=1b_ZEKMHCVC6q4kkD5gAIJcRQioz4sE0X)
+
+## Other Projects
+#### Journey Mapping for a Health App
+This presentation discusses why customer journey mapping is useful through a case study where they were used to inform the design of a mobile health app. It includes examples of various maps used for health and the design of other services.
+
+[Check the presentation here](https://www.slideshare.net/jaxinteractive/journey-mapping-for-a-health-app)
