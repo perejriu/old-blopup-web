@@ -12,22 +12,24 @@ Here, there is a flux-diagram of the algorithm:
 <details open>
 <summary><b>Algorithm Diagram</b></summary>
 <br>
-<img src="/img/algoritme_tractament_Rev4.png" alt="Algorithm Diagram">
+<img src="/img/treatment_algorithm_Rev5.png" alt="Algorithm Diagram">
+<p><em>For a better quality image, follow <a href="https://drive.google.com/open?id=1I0nobsenLnhEuKhmkEji5B54EyEdRBEy" target="_blank" rel="nofollow">this link</a></em></p>
 </details>
 
-# HTA Intervals Definition
+# HT Intervals Definition
 
 
 There are three essential intervals given the BP values:
 
 * <span style="color:green">Normal AT</span>.
 
-* <span style="color:yellow">Stage I HTA</span>.
+* <span style="color:yellow">Stage I HT</span>.
 
-* <span style="color:red">Stage II HTA</span>.
+* <span style="color:red">Stage II HT</span>.
 
->
-Every interval is related with a face:
+>Every interval is related with a face
+
+![Three Algorithm Faces]("img/ThreeAlgorithmFaces.png")
 
 
 ## Normal AT
@@ -49,10 +51,10 @@ In the **Normal AT**:
 <img src="/img/algoritme_tractament_Rev4.png" alt="Treatment dialogue">
 </details>
 
-## Stage I HTA
+## Stage I HT
 >
 $$
-Stage\,\,\,I\,\,\,HTA = systolic \in [130, 139]\, \cup  \,diastolic\in [80, 89]\
+Stage\,\,\,I\,\,\,HT = systolic \in [130, 139]\, \cup  \,diastolic\in [80, 89]\
 $$
 
 In **Stage I HTA**:
@@ -62,14 +64,14 @@ In **Stage I HTA**:
 
   * The **Control** should be in the next **3 months - 6 months**.  
 
-## Stage II hostname
+## Stage II HT
 
 >
 $$
 Stage\,\,\,II\,\,\,HTA = systolic \geq 140\, \cup \,diastolic\geq 90
 $$
 
-In **Stage I HTA** there are _sub-stages_
+In **Stage II HTA** there are _sub-stages_
 
 ### Stage II A
 >
@@ -78,9 +80,15 @@ Stage\,\,\,II\,\,\,A = systolic \in [140, 149]\, \cup  \,diastolic\in [90, 99]\
 $$
 
 #### Asymptomatic
+If is the first visit of the patient:
+
   * The algorithm returns the **personalized recommendations** like before.  
 
   * The **Control** should be in the next **15 days - 1 month**.  
+
+If not:
+
+  * Doctor assesses whether to provide **pharmacological treatment**.
 
 #### Symptomatic
 
